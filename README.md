@@ -5,7 +5,7 @@
 
 # Veritabanımdaki 3 farklı veri ne işime yarayacak?
 
-* Arkadaşlar belki kodlari inceliyorsunuzdur bilmiyorum ama ben baktığım zaman bazı/çoğu altyapıların tek bir veri tutucusu yani güncellenen veritabanı var, bir rol/kanal silindiğinde o veri güncellendikten sonra silinen rol/kanal da verilerden siliniyor. Sonra aptal botçu kurmaya çalıştığı zaman hazır altyapı elinde patlıyor ve adı patlağa çıkıyor. Bunu engellemek için 3 farklı veri tutucu koydurdum. Bu sistemi kendi yeni database botumda da çalıştırıyorum ama siktiğimin discord'unu saldığım için hiçbir sunucuda kullanmıyorum.
+* Arkadaşlar belki kodları inceliyorsunuzdur bilmiyorum ama ben baktığım zaman bazı/çoğu altyapıların tek bir veri tutucusu yani güncellenen veritabanı var, bir rol/kanal silindiğinde o veri güncellendikten sonra silinen rol/kanal da verilerden siliniyor. Sonra aptal botçu kurmaya çalıştığı zaman hazır altyapı elinde patlıyor ve adı patlağa çıkıyor. Bunu engellemek için 3 farklı veri tutucu koydurdum. Bu sistemi kendi yeni database botumda da çalıştırıyorum ama siktiğimin discord'unu saldığım için hiçbir sunucuda kullanmıyorum.
 
 * Tüm verileri komut ile çekiyorsunuz. Ayrıca 3 farklı veri için veritabanı hızının yavaşlamaması adına isteğe bağlı olarak 3 farklı mongo URL yeri doldurmanızı istedim. Tabi ki bunu -ki botu paylaştığımda ayarlamalı olduğunu göreceksiniz- 3 farklı url true/false değeri şeklinde kendiniz düzenlersiniz.
 * Ekstradan da **büyük sunuculara bot yapan hawli kodır arkadaşlarım için de dağıtıcı sistemi geliştirdim diledikleri kadar dağıtıcı koyabilirler.**
